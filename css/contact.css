@@ -1,0 +1,9 @@
+.contact-content{
+    height: 395px;
+    height: 80vh;
+    display: flex;
+    margin-top: 32px;
+    padding: 9px;
+    position: relative;
+}
+
